@@ -1,7 +1,7 @@
 //////////////////////////////////////////////////////////////////
 //
 //   name: scope.js
-//   purpouse: leanr about scopes and closures
+//   purpouse: learn about scopes and closures
 //   date: August 2020
 //   author: joeldevel
 //   usage: in the console run : node scope.js
@@ -35,4 +35,3 @@ outerFunction( "Potato crips" );
 // but we cannot call the innerFunction
 // innerFunction() yields:
 // ReferenceError: innerFunction is not defined
-
